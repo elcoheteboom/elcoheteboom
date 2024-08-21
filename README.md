@@ -3,25 +3,13 @@
 ## :calling: REDES SOCIALES
 
 <div align="center">
-<a href="https://instagram.com/elcoheteboom">
-<img src="https://img.shields.io/badge/Instagram-@elcoheteboom-brown?style=for-the-badge&logo=instagram" alt="instagram" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://facebook.com/elcoheteboom">
-<img src="https://img.shields.io/badge/Facebook-@elcoheteboom-blue?style=for-the-badge&logo=facebook" alt="facebook" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.x.com/elcoheteboom">
-<img src="https://img.shields.io/badge/X-@elcoheteboom-black?style=for-the-badge&logo=x" alt="x" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.threads.net/@elcoheteboom">
-<img src="https://img.shields.io/badge/Threads-@elcoheteboom-black?style=for-the-badge&logo=threads" alt="threads" style="vertical-align:middle">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://bsky.app/profile/elcoheteboom.com">
-<img src="https://img.shields.io/badge/BlueSky-@elcoheteboom.com-blue?style=for-the-badge&logo=bluesky" alt="bluesky" style="vertical-align:middle">
-</a>
+
+[![instagram](https://img.shields.io/badge/Instagram-@elcoheteboom-brown?style=for-the-badge&logo=instagram)](https://instagram.com/elcoheteboom)
+[![facebook](https://img.shields.io/badge/Facebook-@elcoheteboom-blue?style=for-the-badge&logo=facebook)](https://facebook.com/elcoheteboom)
+[![x](https://img.shields.io/badge/X-@elcoheteboom-black?style=for-the-badge&logo=x)](https://www.x.com/elcoheteboom)
+[![threads](https://img.shields.io/badge/Threads-@elcoheteboom-black?style=for-the-badge&logo=threads)](https://www.threads.net/@elcoheteboom)
+[![bluesky](https://img.shields.io/badge/BlueSky-@elcoheteboom.com-blue?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/elcoheteboom.com)
+
 </div>
 
 ---
