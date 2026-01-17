@@ -14,11 +14,7 @@
 
 ---
 
-Tienda de productos pirotécnicos y artículos de fiesta.
-
-Empresa familiar que ha pasado de generación en generación.
-
-Tenemos variedad de productos pirotécnicos.
+Tu tienda especializada en artículos para fiestas y eventos en Tenerife, con una tradición familiar que ha pasado de generación en generación.
 
 <h1 align="center"><a href="https://elcoheteboom.com" target="_blank" rel="noreferrer">
 elcoheteboom.com
